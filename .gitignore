@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+whoosh_index/
 develop-eggs/
 dist/
 downloads/
